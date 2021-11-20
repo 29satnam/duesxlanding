@@ -3,11 +3,11 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-<p>Effective date: January 08, 2020</p>
+<p>Effective date: May 10, 2021</p>
 
 <h1>Privacy Policy</h1>
 
-<p>Satnam Singh ("us", "we", or "our") operates the KEV mobile application (the "Service").</p>
+<p>Satnam Singh ("us", "we", or "our") operates the SubscriptionsX mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -20,17 +20,20 @@ include_in_header: false
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<p>Personal Content. Your content, e.g., your written words, keywords, daily goals, etc., is not saved on our servers nor do we have access to this data. This data is saved as human-readable text files locally on your Mac or iOS device and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). iCloud CloudKit syncs it between your devices automatically. You always have the option to disable iCloud from the system settings.</p>
+<p>For more information on CloudKit please have a look at <a href="https://www.apple.com/privacy/approach-to-privacy/">Apple CloudKit database service provided by Apple, Inc.</a></p>
 
 <h2>Crash data collection</h2>
-<p>Gotmote uses Crashlystics for crash data collection. For more information on this please have a look at <a href="https://policies.google.com/privacy">Crashlystics privacy policy</a>.</p>
+<p>SubscriptionsX uses Firebase Crashlytics for crash data collection. For more information on this please have a look at <a href="https://firebase.google.com/support/privacy">Firebase Crashlystics privacy policy</a>.</p>
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
 
+
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-  <li>Mail: <a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
+<li>Mail: <a href="mailto:29satnam@gmail.com?Subject=Question%20regarding%privacy%20policy" target="_top">@29satnam@gmail.com</a></li>
 </ul>
