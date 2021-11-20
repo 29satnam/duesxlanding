@@ -29,15 +29,15 @@ youtube_username:
 features:
   - title: Get Reminder for Your Subscriptions
     description: Get reminded before the due date with push notifications and save money.
-    fontawesome_icon_name: thermometer-full
+    fontawesome_icon_name: fa-bell
 
   - title: Organize Your Subscription.
     description: Organize subscriptions in Accounts and calculate expense by category.
-    fontawesome_icon_name: calculator
+    fontawesome_icon_name: fa-folder-open
 
   - title: Minimal Yet Integral
     description: Add and organize your subscriptions in a heartbeat. 
-    fontawesome_icon_name: star
+    fontawesome_icon_name: fa-heartbeat
 
 # Theme Settings
 topbar_color: "#fff"
