@@ -11,14 +11,14 @@ presskit_download_link: # Enter a link to downloadable file or (e.g. public Drop
 app_icon: # assets/appicon.png  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: KEV turns your iPhone or iPad into a professional and easy-to-use light meter. Minimalistic KEV analyzes live preview of the scene and gives you accurate white balance data in Kelvin.
+app_description: With SubscriptionsX, you save money. It works as your personal financial assistant for all the subscriptions you have. It organizes your paid or free subscriptions and reminds you before the due date.
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
 your_name: Satnam Singh
-your_link: https://kevapp.co/
+your_link: https://silverseahog.com/
 your_city:
-email_address:
+email_address: 29satnam@gmail.com
 facebook_username:
 instagram_username: codetard
 twitter_username: codetard
@@ -27,16 +27,16 @@ youtube_username:
 
 # Feature List (Edit, add or remove features to be presented.)
 features:
-  - title: Real-time Temperature
-    description: Gets you color temperature in Kelvin in real-time.
+  - title: Get Reminder for Your Subscriptions
+    description: Get reminded before the due date with push notifications and save money.
     fontawesome_icon_name: thermometer-full
 
-  - title: Compensation and Calculation
-    description: Ability to compensate and calculate the white balance readings.
+  - title: Organize Your Subscription.
+    description: Organize subscriptions in Accounts and calculate expense by category.
     fontawesome_icon_name: calculator
 
-  - title: Integral
-    description: Minimal yet integral point and shoot capability. A go-to light meter for photographers and videographers.
+  - title: Minimal Yet Integral
+    description: Add and organize your subscriptions in a heartbeat. 
     fontawesome_icon_name: star
 
 # Theme Settings
