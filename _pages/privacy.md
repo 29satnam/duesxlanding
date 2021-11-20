@@ -20,7 +20,7 @@ include_in_header: false
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<p>Personal Content. Your content, e.g., your written words, keywords, daily goals, etc., is not saved on our servers nor do we have access to this data. This data is saved as human-readable text files locally on your Mac or iOS device and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). iCloud CloudKit syncs it between your devices automatically. You always have the option to disable iCloud from the system settings.</p>
+<p>Personal Content. Your content, e.g., your written words, keywords, subscriptions data, etc., is not saved on our servers nor do we have access to this data. This data is saved locally on your iOS or iPadOS device and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). iCloud CloudKit syncs it between your devices automatically. You always have the option to disable iCloud from the system settings.</p>
 <p>For more information on CloudKit please have a look at <a href="https://www.apple.com/privacy/approach-to-privacy/">Apple CloudKit database service provided by Apple, Inc.</a></p>
 
 <h2>Crash data collection</h2>
